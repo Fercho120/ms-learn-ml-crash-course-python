@@ -33,4 +33,4 @@ Estos Notebooks contienen ekercicios usados en el [ML Crash Course](https://docs
 
 ### Si tienes probelmas o dudas
 
-* Comunicalas en el [canal de dudas](https://teams.microsoft.com/l/channel/19%3ae306d14f14564e1db5beca40ed3cb8f5%40thread.tacv2/02%2520Canal%2520de%2520dudas%2520%25F0%259F%25A4%2594?groupId=c23f58da-c9fc-48fe-8120-820557422f06&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) de la comunidad
+* Comunicalas en el [canal de dudas](https://teams.microsoft.com/l/channel/19%3ae306d14f14564e1db5beca40ed3cb8f5%40thread.tacv2/02%2520Canal%2520de%2520dudas%2520%25F0%259F%25A4%2594?groupId=c23f58da-c9fc-48fe-8120-820557422f06&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) de la comunidad *solo Producción II*
