@@ -2,13 +2,11 @@
 
 ¡Bienvenido, bienvenida viajera o viejero! En esra librería tienes los ejercicios de Machine Learning el curso ML Crash Course que son los que están en el **Training**
 
-Los Notebooks son documentos producidos por la aplicación [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app), que contienen tanto código informático (p. Ej., Python) como elementos de texto enriquecido (párrafo, ecuaciones, figuras, enlaces, etc.). Los documentos de cuaderno son tanto documentos legibles por humanos que contienen la descripción del análisis y los resultados (figuras, tablas, etc.) como documentos ejecutables que se pueden ejecutar para realizar análisis de datos.
+Los Notebooks son documentos producidos por la aplicación [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app), que contienen tanto código de programación (p. Ej., Python) como elementos de texto enriquecido (párrafo, ecuaciones, figuras, enlaces, etc.). Los Notebooks son tanto documentos legibles por humanos que contienen la descripción del análisis y los resultados (figuras, tablas, etc.) como documentos ejecutables que se pueden ejecutar para realizar análisis de datos.
 
-Estos Notebooks contienen ekercicios usados en el [ML Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course) y en el **[Training](https://innovaccion.mx/)** Si bien puede explorar los ejemplos sin seguir el tutorial, se recomienda revisar las instrucciones a detalle.
+Estos Notebooks contienen ejercicios usados en el [ML Crash Course](https://docs.microsoft.com/learn/paths/ml-crash-course) y en el **[Training](https://innovaccion.mx/)** Si bien puedes explorar los ejemplos sin seguir el tutorial, se recomienda revisar las instrucciones a detalle.
 
-- Si no entiendes inglés, puedes hacer uso de cualquier herramieta de traducción.
-
-
+- Si no entiendes inglés, puedes hacer uso de cualquier herramienta de traducción.
 
 ## Clase en vivo
 
@@ -17,6 +15,7 @@ Estos Notebooks contienen ekercicios usados en el [ML Crash Course](https://docs
 ### Comenzando a usar los Notebooks
 
 * Haz **Fork** a este repositorio.
+  * Esto te permitirá guardar los ejercicios que hagas en tu propia cuenta de GitHub y añadirles el botón "Open in Colab" para que los puedas ejecutar con un solo clic
 * Ve a [Colab](https://colab.research.google.com/).
 * Ve a la pestaña de GitHub.
 * Si te pide iniciar sesión o dar permisos de accesos los brindas.
