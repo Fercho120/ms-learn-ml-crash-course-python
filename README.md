@@ -1,6 +1,6 @@
 # Ejercicios de Python para Machine Learning
 
-¡Bienvenido, bienvenida viajera o viejero! En esra librería tienes los ejercicios de Machine Learning el curso ML Crash Course que son los que están en el **Training**
+¡Bienvenido, bienvenida viajera o viajero! En esta librería tienes los ejercicios de Machine Learning del curso ML Crash Course que son los que están en el **Training**
 
 Los Notebooks son documentos producidos por la aplicación [Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app), que contienen tanto código de programación (p. Ej., Python) como elementos de texto enriquecido (párrafo, ecuaciones, figuras, enlaces, etc.). Los Notebooks son tanto documentos legibles por humanos que contienen la descripción del análisis y los resultados (figuras, tablas, etc.) como documentos ejecutables que se pueden ejecutar para realizar análisis de datos.
 
